@@ -1,0 +1,5 @@
+build/
+doc/html/
+doc/latex/
+doc/*.tag
+doc/*.map

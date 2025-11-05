@@ -1,0 +1,3 @@
+add_executable(example_minimal_function_space minimal_function_space.cpp)
+target_link_libraries(example_minimal_function_space PRIVATE kuukan::kuukan)
+target_compile_features(example_minimal_function_space PRIVATE cxx_std_20)
