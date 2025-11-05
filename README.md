@@ -2,7 +2,7 @@
 
 <img src="logo.png" alt="kuukan Logo" width="20%">
 
-# kuukan
+# Kuukan
 
 **Abstract Functional Analysis Interfaces in C++**
 
@@ -12,7 +12,7 @@
 
 </div>
 
-kuukan is a header-only C++20 library that provides abstract interfaces for functional analysis concepts. It allows you to define mathematical structures (vector spaces, metric spaces, normed spaces) through "operation injection" - you provide functors that implement the operations, and the library composes them into complete mathematical structures.
+Kuukan ("Space" in Japanese, 空間) is a header-only C++20 library that provides abstract interfaces for functional analysis concepts. It allows you to define mathematical structures (vector spaces, metric spaces, normed spaces) through "operation injection" - you provide functors that implement the operations, and the library composes them into complete mathematical structures.
 
 ## Features
 
