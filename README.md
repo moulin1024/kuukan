@@ -1,6 +1,6 @@
 <div align="center">
 
-![kuukan Logo](logo.png)
+<img src="logo.png" alt="kuukan Logo" width="20%">
 
 # kuukan
 
